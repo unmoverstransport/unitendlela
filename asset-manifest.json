@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f6d1fdb6.css",
-    "main.js": "/static/js/main.49ca9499.js",
+    "main.css": "/static/css/main.8b2d8b59.css",
+    "main.js": "/static/js/main.7ec5bb2b.js",
     "static/js/787.3f535878.chunk.js": "/static/js/787.3f535878.chunk.js",
     "static/media/MPLUSRounded1c-ExtraBold.ttf": "/static/media/MPLUSRounded1c-ExtraBold.4a20a86eb7ec86deb698.ttf",
     "static/media/MPLUSRounded1c-Bold.ttf": "/static/media/MPLUSRounded1c-Bold.3af364429e77ffd9fb2d.ttf",
@@ -55,12 +55,12 @@
     "static/media/reliable_transport.svg": "/static/media/reliable_transport.8aaa80af7fac25fe10c3876b90e6669b.svg",
     "static/media/percentage.svg": "/static/media/percentage.ee299997c295e76e84dd7a44363a45b7.svg",
     "static/media/house-office.svg": "/static/media/house-office.5a3c8587dc2014bd9caa9a75e850982b.svg",
-    "main.f6d1fdb6.css.map": "/static/css/main.f6d1fdb6.css.map",
-    "main.49ca9499.js.map": "/static/js/main.49ca9499.js.map",
+    "main.8b2d8b59.css.map": "/static/css/main.8b2d8b59.css.map",
+    "main.7ec5bb2b.js.map": "/static/js/main.7ec5bb2b.js.map",
     "787.3f535878.chunk.js.map": "/static/js/787.3f535878.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6d1fdb6.css",
-    "static/js/main.49ca9499.js"
+    "static/css/main.8b2d8b59.css",
+    "static/js/main.7ec5bb2b.js"
   ]
 }
