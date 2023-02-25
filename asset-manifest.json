@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8b2d8b59.css",
-    "main.js": "/static/js/main.08840d97.js",
+    "main.js": "/static/js/main.4cbcbceb.js",
     "static/js/787.3f535878.chunk.js": "/static/js/787.3f535878.chunk.js",
     "static/media/MPLUSRounded1c-ExtraBold.ttf": "/static/media/MPLUSRounded1c-ExtraBold.4a20a86eb7ec86deb698.ttf",
     "static/media/MPLUSRounded1c-Bold.ttf": "/static/media/MPLUSRounded1c-Bold.3af364429e77ffd9fb2d.ttf",
@@ -56,11 +56,11 @@
     "static/media/percentage.svg": "/static/media/percentage.ee299997c295e76e84dd7a44363a45b7.svg",
     "static/media/house-office.svg": "/static/media/house-office.5a3c8587dc2014bd9caa9a75e850982b.svg",
     "main.8b2d8b59.css.map": "/static/css/main.8b2d8b59.css.map",
-    "main.08840d97.js.map": "/static/js/main.08840d97.js.map",
+    "main.4cbcbceb.js.map": "/static/js/main.4cbcbceb.js.map",
     "787.3f535878.chunk.js.map": "/static/js/787.3f535878.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b2d8b59.css",
-    "static/js/main.08840d97.js"
+    "static/js/main.4cbcbceb.js"
   ]
 }
